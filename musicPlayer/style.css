@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.container {
+
+    width: 400px;
+}
+
+#progress {
+    margin-bottom: 20px;
+}
+#progress .times 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
